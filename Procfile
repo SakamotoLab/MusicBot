@@ -1,1 +1,1 @@
-worker:  python run.py rake jobs:work
+worker:  python run.py
