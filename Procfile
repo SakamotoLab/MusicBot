@@ -1,1 +1,1 @@
-worker:  python run.py --log-file -
+worker:  python3.5 run.py
